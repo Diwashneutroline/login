@@ -1,0 +1,20 @@
+{
+  "login": [
+    {
+      "name": "Diwash",
+      "email": "diwash.amatya@gmail.com",
+      "password": "Amatya28",
+      "confirmPassword": "Amatya28",
+      "phoneNumber": "9842411394",
+      "id": 1
+    },
+    {
+      "name": "Diwash Raj Amatya",
+      "email": "test@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "phoneNumber": "9842411394",
+      "id": 2
+    }
+  ]
+}
